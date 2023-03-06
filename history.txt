@@ -6,3 +6,5 @@ Está re interesante y espero acordarme mucho de esto porque son varias cosas
 Me equivoqué dejando mi cuenta GitHub principal
 y se pusheo con permisos, ahora probar si desde
 la secundaria deja también jejeje
+
+Ahora reinstalé Git, vamos a ver si se borró ese dilema de las cuentas :p
